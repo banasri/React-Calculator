@@ -1,0 +1,10 @@
+.btnContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.btn {
+  background-color: azure;
+  color: #000;
+  margin: 2px;
+}

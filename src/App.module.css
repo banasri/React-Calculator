@@ -1,0 +1,12 @@
+.container {
+  margin-left: 10px;
+  width:200px;
+  border: solid black 1px;
+  align-content: center;
+}
+.outerContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
